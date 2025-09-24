@@ -2,11 +2,6 @@
 - 👀 I’m interested in learning 
 - 🌱 I’m currently learning new projects and web-dev
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Pathik0701/Pathik0701 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me
+      linkedln : http://www.linkedin.com/in/pathik-chauhan07
+      
