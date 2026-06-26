@@ -84,55 +84,15 @@ I'm a Computer Science Engineering student passionate about designing scalable b
 
 # 🚀 Current Focus
 
-- 🔹 Java Backend Development
-- 🔹 Spring Boot & Hibernate
-- 🔹 REST API Development
-- 🔹 JDBC & MySQL
-- 🔹 Docker & Deployment
-- 🔹 JUnit & Mockito
-- 🔹 Data Structures & Algorithms
-- 🔹 System Design
-- 🔹 AI-powered Applications
-
----
-
-# 📂 Featured Projects
-
-### 💰 Expense Tracker
-> Java • JDBC • MySQL
-
-A console-based Expense Tracker that stores and manages expense records using MySQL through JDBC.
-
----
-
-### 👷 Informal Workers Platform *(Hackathon)*
-
-A web platform that connects workers like plumbers, electricians, maids, and laborers with customers.
-
-**Features**
-- Job Listing
-- Worker Profiles
-- Wage Tracking
-- Monthly Payment Records
-- AI-based Worker Recommendation
-
----
-
-### 🌐 Portfolio Website
-
-Designed and developed a responsive personal portfolio using **HTML, CSS and JavaScript**.
-
----
-
-# 📈 Goals for 2026
-
-- ✅ Master Spring Boot
-- ✅ Learn Microservices
-- ✅ Learn AWS
-- ✅ Build 10+ Production-Level Projects
-- ✅ Crack a Backend Developer Internship
-- ✅ Contribute to Open Source
-- ✅ Strengthen System Design & DSA
+🔹 Java Backend Development
+🔹 Spring Boot & Hibernate
+🔹 REST API Development
+🔹 JDBC & MySQL
+🔹 Docker & Deployment
+🔹 JUnit & Mockito
+🔹 Data Structures & Algorithms
+🔹 System Design
+🔹 AI-powered Applications
 
 ---
 
