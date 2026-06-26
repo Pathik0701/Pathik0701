@@ -2,8 +2,6 @@
 - 👀 I’m interested in learning 
 - 🌱 I’m currently learning new projects and web-dev
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me
-      linkedln : http://www.linkedin.com/in/pathik-chauhan07
       
 
 ## 🌐 Socials:
@@ -16,7 +14,5 @@
 ![](https://streak-stats.demolab.com/?user=Pathik0701&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Pathik0701&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Pathik0701&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
