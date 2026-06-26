@@ -84,16 +84,16 @@ I'm a Computer Science Engineering student passionate about designing scalable b
 
 # 🚀 Current Focus
 
-🔹 Java Backend Development
-🔹 Spring Boot & Hibernate
-🔹 REST API Development
-🔹 JDBC & MySQL
-🔹 Docker & Deployment
-🔹 JUnit & Mockito
-🔹 Data Structures & Algorithms
-🔹 System Design
-🔹 AI-powered Applications
-
+- 🔹 Java Backend Development
+- 🔹 Spring Boot & Hibernate
+- 🔹 REST API Development
+- 🔹 JDBC & MySQL
+- 🔹 Docker & Deployment
+- 🔹 JUnit & Mockito
+- 🔹 Data Structures & Algorithms
+- 🔹 System Design
+- 🔹 AI-powered Applications
+  
 ---
 
 # 🧠 Engineering Mindset
