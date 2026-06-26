@@ -1,18 +1,161 @@
-- 👋 Hi, I’m @Pathik0701
-- 👀 I’m interested in learning 
-- 🌱 I’m currently learning new projects and web-dev
-- 💞️ I’m looking to collaborate on ...
-      
+# 👋 Hi, I'm Pathik Chauhan
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_pathik._.07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pathik-chauhan07) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pathikchauhan0701@gmail.com) 
+### 💻 Aspiring Java Backend Developer | Spring Boot | MySQL | REST APIs | DSA
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Pathik0701&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Pathik0701&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Pathik0701&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I'm a Computer Science Engineering student passionate about building scalable backend applications using Java and Spring Boot. I enjoy solving Data Structures & Algorithms problems, learning new technologies, and building projects that solve real-world problems.
 
+* 🌱 Currently learning **Spring Boot, Hibernate, Docker & AWS**
+* 💻 Building Backend Projects using **Java, JDBC & MySQL**
+* 🧠 Practicing **Data Structures & Algorithms in Java**
+* 🚀 Interested in Backend Development, System Design & AI Integration
+* 📫 Reach me at **[pathikchauhan0701@gmail.com](mailto:pathikchauhan0701@gmail.com)**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 🌐 Connect
+
+<p align="left">
+<a href="https://github.com/Pathik0701" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" width="45"/>
+</a>
+
+<a href="https://www.linkedin.com/in/pathik-chauhan07
+" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+</a>
+
+<a href="mailto:pathikchauhan0701@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+</a>
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Pathik0701&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Pathik0701&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pathik0701&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+### ☕ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate"/>
+</p>
+
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+</p>
+
+### 🧑‍💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,cpp,python"/>
+</p>
+
+### 🛠️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode,idea"/>
+</p>
+
+### 📚 Currently Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,docker,aws"/>
+</p>
+
+---
+
+# 🚀 Current Focus
+
+* 🔹 Spring Boot Development
+* 🔹 REST API Development
+* 🔹 JDBC & Hibernate
+* 🔹 MySQL Database Design
+* 🔹 Docker & Deployment
+* 🔹 JUnit & Mockito Testing
+* 🔹 Data Structures & Algorithms
+* 🔹 System Design Fundamentals
+* 🔹 AI-powered Backend Applications
+
+---
+
+# 📂 Featured Projects
+
+### 💰 Expense Tracker
+
+Java + JDBC + MySQL based console application to manage daily expenses.
+
+### 👷 Informal Workers Platform
+
+A smart platform connecting workers like plumbers, electricians, maids, and laborers with customers while managing payments and work history.
+
+### 🤖 AI Profile Matching (Hackathon)
+
+An AI-powered recommendation system for matching workers with suitable jobs based on skills, ratings, and experience.
+
+---
+
+# 📈 Goals for 2026
+
+* ✅ Master Spring Boot
+* ✅ Learn Microservices
+* ✅ Learn AWS
+* ✅ Build Production-Level Projects
+* ✅ Crack Backend Developer Internship
+* ✅ Contribute to Open Source
+
+---
+
+# 🧠 Engineering Mindset
+
+> **"Consistency beats intensity."**
+
+> Build. Learn. Improve. Repeat.
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Pathik0701&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pathik0701&theme=tokyo-night"/>
+
+</p>
+
+---
+
+## 📫 Contact
+
+📧 **Email:** [pathikchauhan0701@gmail.com](mailto:pathikchauhan0701@gmail.com)
+
+💼 **LinkedIn:** https://www.linkedin.com/in/pathik-chauhan07
+
+🐙 **GitHub:** https://github.com/Pathik0701
