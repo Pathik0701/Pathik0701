@@ -14,6 +14,7 @@ I'm a Computer Science Engineering student passionate about building scalable ba
 
 ## 🌐 Connect
 
+<div>
 <p align="left">
 <a href="https://github.com/Pathik0701" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" width="45"/>
@@ -28,6 +29,8 @@ I'm a Computer Science Engineering student passionate about building scalable ba
 <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
 </a>
 </p>
+</div>
+
 
 ---
 
