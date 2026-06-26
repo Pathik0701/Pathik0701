@@ -1,4 +1,4 @@
-```md
+
 # 👋 Hi, I'm Pathik Chauhan
 
 ### 💻 Java Backend Developer | Spring Boot | MySQL | REST APIs | DSA
@@ -162,4 +162,3 @@ Designed and developed a responsive personal portfolio using **HTML, CSS and Jav
 💼 **LinkedIn:** https://www.linkedin.com/in/pathik-chauhan07
 
 🐙 **GitHub:** https://github.com/Pathik0701
-```
